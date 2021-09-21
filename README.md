@@ -7,12 +7,12 @@
 
 <br>
 
-### About Me! 😎
+### About Me:
 
 
 I am a Student, Designer, Developer, And also Sometime Volunteer!
 - 🔭  I'm currently Working on Android App Development and Web Development!
-- 🌱  I'm currently learning Java, Python, CSS, JavaScript, Android Studio and Many More 😎...
+- 🌱  I'm currently learning Java, Python, CSS, JavaScript, Android Studio and Many More.
 - 🗻  I'm looking to collaborate with other Developers.
 - 📘  2021 goals is to be an entry level Android developer.
 - 🌩️  Fun fact: I love to play football, read books, travel, games, design.
