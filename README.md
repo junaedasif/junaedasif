@@ -56,7 +56,7 @@ I am a Student, Designer, Developer, And also Sometime Volunteer!
      </tr>
       <tr>
        <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=junaedasif&show_icons=true&theme=radical"> </td>
-       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaedasif&langs_count=10&theme=dark&layout=compact&hide=html"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaedasif&langs_count=10&theme=radical&layout=compact&hide=html"> </td>
      </tr>
    </table>
 </p>
