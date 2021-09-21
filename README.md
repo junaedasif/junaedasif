@@ -64,9 +64,13 @@ I am a Student, Designer, Developer, And also Sometime Volunteer!
    </table>
 </p>
 
+
+---
+
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
   <br>
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
+</div>
