@@ -49,9 +49,6 @@ I am a Student, Designer, Developer, And also Sometime Volunteer!
 </div>
 
 
----
-
-
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 
