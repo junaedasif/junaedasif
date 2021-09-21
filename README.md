@@ -6,13 +6,13 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/junaedasif">Abu Junaed Mohd Asif<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 
-<h2 align="center">About Me! 😎</h2>
 
-### I am a Student, Designer, Developer, And also Sometime Volunteer!
+### About Me! 😎
+I am a Student, Designer, Developer, And also Sometime Volunteer!
 - 🔭  I'm currently Working on Android App Development and Web Development!
 - 🌱  I'm currently learning Java, Python, CSS, JavaScript, Android Studio and Many More 😎...
 - 🗻  I'm looking to collaborate with other Developers.
-- 📘  2021 goals is to be an entry level Android developer and contribute more to open Source projects.
+- 📘  2021 goals is to be an entry level Android developer.
 - 🌩️  Fun fact: I love to play football, read books, travel, games, design.
 - ✨  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
