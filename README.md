@@ -10,8 +10,8 @@
 ### About Me! 😎
 
 ---
-
-I am a Student, Designer, Developer, And also Sometime Volunteer!
+<div align="center">
+I am a Student, Designer, Developer, And also Sometime Volunteer! </div>
 - 🔭  I'm currently Working on Android App Development and Web Development!
 - 🌱  I'm currently learning Java, Python, CSS, JavaScript, Android Studio and Many More 😎...
 - 🗻  I'm looking to collaborate with other Developers.
