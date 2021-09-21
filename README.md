@@ -47,9 +47,12 @@ I am a Student, Designer, Developer, And also Sometime Volunteer!
 ---
 ### 🔥 GitHub Stats:
 
+
+<div align="center">
+
 ![](https://komarev.com/ghpvc/?username=junaedasif&color=brightgreen&label=PROFILE+VIEWS)
 [![image](https://img.shields.io/github/followers/junaedasif?style=social)](https://github.com/junaedasif?tab=followers)
-
+</div>
 
 <p align="center">
    <table>
