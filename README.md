@@ -23,7 +23,7 @@ I am a Student, Designer, Developer, And also Sometime Volunteer!
 
 
   
-### 🤝🤞 Connect with me:
+### 🤝 Connect with me:
 
 
 <div align="center">
