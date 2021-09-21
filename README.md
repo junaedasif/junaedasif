@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm <a href="https://github.com/junaedasif">Abu Junaed Mohd Asif<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
 
-<h1>About Me! 😎</h1>
+<h1 align="center">About Me! 😎</h1>
 
 ### i am a Student, Designer, Developer, And also Sometime Volunteer!
 - 🔭  I'm currently Working on Android App Development and Web Development!
