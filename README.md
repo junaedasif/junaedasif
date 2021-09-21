@@ -7,7 +7,7 @@
 
 <br>
 
-### About Me:
+### 😃 About Me:
 
 
 I am a Student, Designer, Developer, And also Sometime Volunteer!
@@ -23,7 +23,7 @@ I am a Student, Designer, Developer, And also Sometime Volunteer!
 
 
   
-### Connect with me:
+### 🤝🤞 Connect with me:
 
 
 <div align="center">
@@ -42,7 +42,7 @@ I am a Student, Designer, Developer, And also Sometime Volunteer!
 
 ---
 
-### Languages and Tools:
+### 🎯 Languages and Tools:
 
 
 <div align="center">
