@@ -8,6 +8,9 @@
 <br>
 
 ### About Me! 😎
+
+---
+
 I am a Student, Designer, Developer, And also Sometime Volunteer!
 - 🔭  I'm currently Working on Android App Development and Web Development!
 - 🌱  I'm currently learning Java, Python, CSS, JavaScript, Android Studio and Many More 😎...
@@ -17,11 +20,12 @@ I am a Student, Designer, Developer, And also Sometime Volunteer!
 - ✨  I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
 
----
+
 
   
 ### Connect with me:
 
+---
 
 <div align="center">
 
@@ -34,10 +38,11 @@ I am a Student, Designer, Developer, And also Sometime Volunteer!
 [![image](https://img.shields.io/github/followers/junaedasif?style=social)](https://github.com/junaedasif?tab=followers)
 </div>
 
----
+
 
 ### Languages and Tools:
 
+---
 
 <div align="center">
  <img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">    <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">             
