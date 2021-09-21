@@ -31,9 +31,8 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaedasif@gmail.com)
 </div>
 
-<div align="center">
+
 [![image](https://img.shields.io/github/followers/junaedasif?style=social)](https://github.com/junaedasif?tab=followers)
-  
 </div>
 
 
