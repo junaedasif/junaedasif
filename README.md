@@ -1,5 +1,5 @@
 ### <h1>![](https://komarev.com/ghpvc/?username=junaedasif&color=brightgreen&label=PROFILE+VIEWS)</h1>
-[![image](https://img.shields.io/github/followers/junaedasif?style=social)]
+![image](https://img.shields.io/github/followers/junaedasif?style=social)
 
 <!--<p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
