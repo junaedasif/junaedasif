@@ -32,9 +32,6 @@ I am a Student, Designer, Developer, And also Sometime Volunteer!
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/junaedasif/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaedasif@gmail.com)
 <br>
-
-![](https://komarev.com/ghpvc/?username=junaedasif&color=brightgreen&label=PROFILE+VIEWS)
-[![image](https://img.shields.io/github/followers/junaedasif?style=social)](https://github.com/junaedasif?tab=followers)
 </div>
 
 
@@ -47,7 +44,13 @@ I am a Student, Designer, Developer, And also Sometime Volunteer!
  <img src="https://img.shields.io/badge/Java%20-%23E00033.svg?&style=for-the-badge&logo=java&logoColor=white">   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white">    <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>   <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">             
 </div>
 
+---
 ### 🔥 GitHub Stats:
+
+![](https://komarev.com/ghpvc/?username=junaedasif&color=brightgreen&label=PROFILE+VIEWS)
+[![image](https://img.shields.io/github/followers/junaedasif?style=social)](https://github.com/junaedasif?tab=followers)
+
+
 <p align="center">
    <table>
       <tr>
