@@ -1,5 +1,5 @@
 ### <h1>![](https://komarev.com/ghpvc/?username=junaedasif&color=brightgreen&label=PROFILE+VIEWS)</h1>
-![image](https://img.shields.io/github/followers/junaedasif?style=social)
+
 
 <!--<p align="center">
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
@@ -29,6 +29,7 @@
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junaedasif/)
 [![image](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/junaedasif/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaedasif@gmail.com)
+[![image](https://img.shields.io/github/followers/junaedasif?style=social)](https://github.com/junaedasif?tab=followers)
   
 </div>
 
