@@ -10,7 +10,7 @@
 ### 😃 About Me:
 
 
-I am a Student, Designer, Developer, And also Sometime Volunteer!
+I am a Researcher, Designer, Developer, And also Sometime Volunteer!
 - 🔭  I'm currently Working on Web Development!
 - 🌱  I'm currently learning CSS, JavaScript and Many More.
 - 👯  I'm looking to collaborate with other Developers.
